@@ -1,0 +1,1 @@
+example text to analyze for frequency of letters and letter pairs
